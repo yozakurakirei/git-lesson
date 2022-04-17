@@ -1,2 +1,1 @@
-const alert = document.querySelector("#hello")
-console.log(alert);
+import dayjs from "dayjs";
